@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\KeyloggerDetectionTool.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\KeyloggerDetectionTool.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\KeyloggerDetectionTool.csproj",
+        "projectName": "KeyloggerDetectionTool",
+        "projectPath": "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\KeyloggerDetectionTool.csproj",
+        "packagesPath": "C:\\Users\\mavvi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mavvi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "System.Management": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

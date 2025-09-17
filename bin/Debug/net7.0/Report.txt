@@ -1,0 +1,8 @@
+Potential keylogger detected: RtkAudUService64 | Process ID: 9532 |  Path: C:\Windows\System32\DriverStore\FileRepository\hdxhapmrtkwov.inf_amd64_03df0d06613745f9\RtkAudUService64.exe
+Time: 12/05/2023 13:03:38
+Potential keylogger detected: RtkAudUService64 | Process ID: 9532 |  Path: C:\Windows\System32\DriverStore\FileRepository\hdxhapmrtkwov.inf_amd64_03df0d06613745f9\RtkAudUService64.exe
+Time: 12/05/2023 13:05:06
+Potential keylogger detected: ModuleCoreService | Process ID: 13864 |  Path: C:\Program Files\Common Files\McAfee\ModuleCore\ModuleCoreService.exe
+Time: 12/05/2023 13:05:10
+Potential keylogger detected: RtkAudUService64 | Process ID: 9532 |  Path: C:\Windows\System32\DriverStore\FileRepository\hdxhapmrtkwov.inf_amd64_03df0d06613745f9\RtkAudUService64.exe
+Time: 12/05/2023 14:09:37

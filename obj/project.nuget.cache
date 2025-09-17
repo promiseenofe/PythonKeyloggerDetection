@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qWCE37v8vXzbhqzZ0H9mOpOUqsaOY3xKo8NrR+00J7Jp9C/8d+z1vOztOXvJOMVMMgbfxBYYJKk+CJtQF7MXiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mavvi\\OneDrive\\Desktop\\KeyloggerDetectionTool\\KeyloggerDetectionTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mavvi\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\mavvi\\.nuget\\packages\\system.management\\7.0.1\\system.management.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

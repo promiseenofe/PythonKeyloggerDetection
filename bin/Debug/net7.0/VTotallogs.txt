@@ -1,0 +1,28 @@
+FileHash = F3AE51A59499AC96A0F398109EC114127292C1CD44FA608E79C83EF47D7EF4C5
+VirusTotal Report : Detected by 0 out of 73 antivirus programs
+Process Name: RtkAudUService64
+12/05/2023 13:03:41
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+FileHash = F3AE51A59499AC96A0F398109EC114127292C1CD44FA608E79C83EF47D7EF4C5
+VirusTotal Report : Detected by 0 out of 73 antivirus programs
+Process Name: RtkAudUService64
+12/05/2023 13:05:08
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+FileHash = C1D311E7E451017E22B7331A1F0355BD9EB198E5C4DAEE383288D9B9AE2BC9F0
+VirusTotal Report : Detected by 0 out of 74 antivirus programs
+Process Name: ModuleCoreService
+12/05/2023 13:05:11
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
+FileHash = F3AE51A59499AC96A0F398109EC114127292C1CD44FA608E79C83EF47D7EF4C5
+VirusTotal Report : Detected by 0 out of 73 antivirus programs
+Process Name: RtkAudUService64
+12/05/2023 14:09:39
+---------------------------------------------------
+---------------------------------------------------
+---------------------------------------------------
